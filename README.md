@@ -8,6 +8,10 @@ Jishaku for discord.js-selfbot-v13 or discord.js
 ```
 npm install @omoti/jsk
 ```
+or 
+```
+yarn add @omoti/jsk
+```
 
 # Package Use Example
 
