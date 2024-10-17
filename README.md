@@ -1,5 +1,6 @@
 # Jishaku
 Jishaku for discord.js-selfbot-v13 or discord.js
+[NPM](https://www.npmjs.com/package/@omoti/jsk)
 
 # Install
 
