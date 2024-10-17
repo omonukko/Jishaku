@@ -4,6 +4,8 @@ Jishaku for discord.js-selfbot-v13 or discord.js
 # Package Use Example
 
 ```typescript
+import {Jishaku} from '@omoti/jishaku';
+
 export let jsk: Jishaku;
 jsk = new Jishaku(client, {
   useableUserId: ["userid1", "userid2"], // Your Discord UserID
