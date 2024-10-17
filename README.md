@@ -12,8 +12,7 @@ npm install @omoti/jsk
 ```typescript
 import {Jishaku} from '@omoti/jsk';
 
-export let jsk: Jishaku;
-jsk = new Jishaku(client, {
+export const jsk = new Jishaku(client, {
   useableUserId: ["userid1", "userid2"], // Your Discord UserID
   allowMultiShRunning: false, // Multi Shell Running Allow?
   prefix: "custom prefix", // Bot Prefix
