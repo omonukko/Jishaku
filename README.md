@@ -1,6 +1,7 @@
 # Jishaku
 Jishaku for discord.js-selfbot-v13 or discord.js
 [NPM](https://www.npmjs.com/package/@omoti/jsk)
+[YARN](https://yarnpkg.com/package?q=%40omoti%2Fjsk&name=%40omoti%2Fjsk)
 
 # Install
 
@@ -21,7 +22,7 @@ export const jsk = new Jishaku(client, {
 });
 
 client.on("messageCreate", async (message: Message) => {
-  await jsk.onMessageCreated(message);
+  await jsk.jskMessage(message);
 });
 ```
 
