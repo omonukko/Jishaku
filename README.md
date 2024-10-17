@@ -15,7 +15,7 @@ import {Jishaku} from '@omoti/jsk';
 export const jsk = new Jishaku(client, {
   useableUserId: ["userid1", "userid2"], // Your Discord UserID
   allowMultiShRunning: false, // Multi Shell Running Allow?
-  prefix: "custom prefix", // Bot Prefix
+  prefix: "custom prefix", // Bot Prefix Default:[!]
   encoding: "utf-8", // utf-8 
 });
 
