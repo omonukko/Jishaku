@@ -25,4 +25,4 @@ client.on("messageCreate", async (message: Message) => {
 });
 ```
 
--# support:Issue
+support:Issue
