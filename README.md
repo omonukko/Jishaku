@@ -4,7 +4,7 @@ Jishaku for discord.js-selfbot-v13 or discord.js
 # Package Use Example
 
 ```typescript
-import {Jishaku} from '@omoti/jishaku';
+import {Jishaku} from '@omoti/jsk';
 
 export let jsk: Jishaku;
 jsk = new Jishaku(client, {
