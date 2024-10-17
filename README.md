@@ -2,6 +2,8 @@
 Jishaku for discord.js-selfbot-v13 or discord.js
 [NPM](https://www.npmjs.com/package/@omoti/jsk)
 [YARN](https://yarnpkg.com/package?q=%40omoti%2Fjsk&name=%40omoti%2Fjsk)
+[ORIGINAL](https://www.npmjs.com/package/@uplc/discord.jsk)
+
 
 # Install
 
