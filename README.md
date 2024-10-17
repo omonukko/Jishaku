@@ -28,14 +28,15 @@ Commands:
 
 ```
 StartWith:Your Prefix
+// In this example, we will use the default prefix.
 
-sh = prefix+jsk sh <ShellCommand>
+sh = !jsk sh <ShellCommand>
 
-js = prefix+jsk js <MarkDown Code or code>
+js = !jsk js <MarkDown Code or code>
 
-shutdown = prefix+jsk shutdown 
+shutdown = !jsk shutdown 
 
-help = prefix+jsk help
+help = !jsk help
 
 ```
 support:Issue
