@@ -1,7 +1,7 @@
 # Jishaku
 Jishaku for discord.js-selfbot-v13 or discord.js
 
-Install
+# Install
 
 ```
 npm install @omoti/jsk
@@ -24,3 +24,5 @@ client.on("messageCreate", async (message: Message) => {
   await jsk.onMessageCreated(message);
 });
 ```
+
+-# support:Issue
