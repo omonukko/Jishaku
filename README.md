@@ -1,6 +1,12 @@
 # Jishaku
 Jishaku for discord.js-selfbot-v13 or discord.js
 
+Install
+
+```
+npm install @omoti/jsk
+```
+
 # Package Use Example
 
 ```typescript
