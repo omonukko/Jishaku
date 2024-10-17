@@ -24,4 +24,18 @@ client.on("messageCreate", async (message: Message) => {
 });
 ```
 
+Commands:
+
+```
+StartWith:Your Prefix
+
+sh = prefix+jsk sh <ShellCommand>
+
+js = prefix+jsk js <MarkDown Code or code>
+
+shutdown = prefix+jsk shutdown 
+
+help = prefix+jsk help
+
+```
 support:Issue
